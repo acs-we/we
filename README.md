@@ -2,7 +2,7 @@
 Hello World ~
 
 ## Workflow
-Test ~
+Exercise ~
 
 ## Hungry
 I am hungry ~
